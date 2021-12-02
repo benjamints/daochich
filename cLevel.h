@@ -7,7 +7,6 @@
 #include "cCar.h"
 #include "cDinosaur.h"
 #include "cTruck.h"
-
 class cLevel
 {
 private:
